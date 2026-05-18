@@ -25,11 +25,11 @@ Dự án này xây dựng pipeline phân tích dữ liệu, bao gồm:
 
 ## Dataset
 
-### File dữ liệu chính:
+#### File dữ liệu chính:
 
 student_lifestyle_100k.xlsx
 
-### Sau tiền xử lý, dataset được chia thành:
+#### Sau tiền xử lý, dataset được chia thành:
 
 student_lifestyle_200.xlsx  
 student_lifestyle_500.xlsx  
