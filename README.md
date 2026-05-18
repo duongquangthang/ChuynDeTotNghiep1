@@ -49,7 +49,7 @@ student_lifestyle_100000.xlsx
 
 Chạy trong notebook hoặc terminal:
 
-pip install pandas numpy scikit-learn networkx matplotlib seaborn openpyxl 
+pip install pandas numpy scikit-learn networkx matplotlib seaborn openpyxl  
 pip install python-louvain igraph leidenalg
 
 ---
@@ -57,17 +57,14 @@ pip install python-louvain igraph leidenalg
 ## Hướng dẫn chạy dự án
 
 ### 1. Clone hoặc tải project về
-git clone <repo-url> 
+git clone <repo-url>  
 cd <ten-project>
 
 Hoặc tải file student_lifestyle.ipynb về máy và mở trực tiếp.
 
-### 2. Cài đặt thư viện cần thiết nếu chưa có
+### 2. Cài đặt thư viện cần thiết (nếu chưa có)
 
-Chạy trong terminal hoặc ngay trong Jupyter Notebook:
-
-pip install pandas numpy scikit-learn networkx matplotlib seaborn openpyxl 
-pip install python-louvain igraph leidenalg
+Thực hiện giống phần Cài đặt môi trường ở trên
 
 ### 3. Mở Jupyter Notebook
 
