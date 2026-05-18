@@ -74,13 +74,13 @@ Sau đó mở file chính: student_lifestyle.ipynb
 
 - Chạy lần lượt các cell theo thứ tự:
 
-Cell 1: TIỀN XỬ LÍ DỮ LIỆU
+#### Cell 1: TIỀN XỬ LÍ DỮ LIỆU
 - Load dataset
 - Chuẩn hóa tên cột
 - Encode biến (Gender, Depression)
 - Xóa dữ liệu trùng lặp
 
-Cell 2: CHUẨN HÓA DỮ LIỆU
+####  Cell 2: CHUẨN HÓA DỮ LIỆU
 - MinMaxScaler
 - Chọn feature:
   - CGPA
@@ -90,12 +90,12 @@ Cell 2: CHUẨN HÓA DỮ LIỆU
   - Physical activity
   - Stress level
 
-Cell 3: SO SÁNH K-NN VÀ MUTUAL K-NN
+#### Cell 3: SO SÁNH K-NN VÀ MUTUAL K-NN
 - Xây dựng graph
 - So sánh cấu trúc theo k
 - Phân tích density & components
 
-Cell 4: SO SÁNH CÁC THUẬT TOÁN PHÁT HIỆN CỘNG ĐỒNG
+#### Cell 4: SO SÁNH CÁC THUẬT TOÁN PHÁT HIỆN CỘNG ĐỒNG
 Các thuật toán phát hiện cộng đồng:
 - Girvan-Newman
 - Label Propagation
@@ -106,19 +106,19 @@ So sánh:
 - Số lượng cộng đồng
 - Runtime
 
-Cell 5: SO SÁNH CÁC THUẬT TOÁN PHÁT HIỆN CỘNG ĐỒNG VỚI 10 LẦN THỰC NGHIỆM
+#### Cell 5: SO SÁNH CÁC THUẬT TOÁN PHÁT HIỆN CỘNG ĐỒNG VỚI 10 LẦN THỰC NGHIỆM
 - Đánh giá độ ổn định thuật toán
 - So sánh theo metric:
   - Modularity
   - Runtime
   - Number of communities
 
-Cell 6: VẼ CỘNG ĐỒNG BẰNG KNN VÀ MUTUAL KNN TRÊN TẬP 200 ĐỈNH VÀ 500 ĐỈNH
+#### Cell 6: VẼ CỘNG ĐỒNG BẰNG KNN VÀ MUTUAL KNN TRÊN TẬP 200 ĐỈNH VÀ 500 ĐỈNH
 - 200 nodes
 - 500 nodes
 - So sánh cấu trúc graph
 
-Cell 7: SỬ DỤNG LEIDEN + MUTUAL K-NN ĐỂ PHÁT HIỆN CỘNG ĐỒNG VÀ NHÓM NGUY CƠ CAO VỀ SỨC KHỎE TÂM THẦN VỚI DATASET 5000 NODES
+#### Cell 7: SỬ DỤNG LEIDEN + MUTUAL K-NN ĐỂ PHÁT HIỆN CỘNG ĐỒNG VÀ NHÓM NGUY CƠ CAO VỀ SỨC KHỎE TÂM THẦN VỚI DATASET 5000 NODES
 - Phát hiện cộng đồng quy mô lớn
 - Tính risk score
 - Xác định nhóm nguy cơ cao
