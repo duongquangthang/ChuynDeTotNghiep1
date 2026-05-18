@@ -60,7 +60,7 @@ pip install python-louvain igraph leidenalg
 git clone <repo-url>  
 cd <ten-project>
 
-Hoặc tải file student_lifestyle.ipynb về máy và mở trực tiếp.
+Hoặc tải file student_lifestyle.ipynb và các file dataset về máy và mở trực tiếp.
 
 ### 2. Cài đặt thư viện cần thiết (nếu chưa có)
 
