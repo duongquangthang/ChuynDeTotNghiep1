@@ -31,11 +31,11 @@ student_lifestyle_100k.xlsx
 
 ### Sau tiền xử lý, dataset được chia thành:
 
-student_lifestyle_200.xlsx 
-student_lifestyle_500.xlsx 
-student_lifestyle_1000.xlsx 
-student_lifestyle_5000.xlsx 
-student_lifestyle_100000.xlsx 
+student_lifestyle_200.xlsx  
+student_lifestyle_500.xlsx  
+student_lifestyle_1000.xlsx  
+student_lifestyle_5000.xlsx  
+student_lifestyle_100000.xlsx  
 
 ---
 
